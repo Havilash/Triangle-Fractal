@@ -1,0 +1,15 @@
+C:\Users\havil\Documents\GitHub\Triangle-Fractal\Triangle_Fractal\Triangle_Fractal\bin\Debug\net6.0\Triangle_Fractal.exe
+C:\Users\havil\Documents\GitHub\Triangle-Fractal\Triangle_Fractal\Triangle_Fractal\bin\Debug\net6.0\Triangle_Fractal.deps.json
+C:\Users\havil\Documents\GitHub\Triangle-Fractal\Triangle_Fractal\Triangle_Fractal\bin\Debug\net6.0\Triangle_Fractal.runtimeconfig.json
+C:\Users\havil\Documents\GitHub\Triangle-Fractal\Triangle_Fractal\Triangle_Fractal\bin\Debug\net6.0\Triangle_Fractal.dll
+C:\Users\havil\Documents\GitHub\Triangle-Fractal\Triangle_Fractal\Triangle_Fractal\bin\Debug\net6.0\Triangle_Fractal.pdb
+C:\Users\havil\Documents\GitHub\Triangle-Fractal\Triangle_Fractal\Triangle_Fractal\obj\Debug\net6.0\Triangle_Fractal.csproj.AssemblyReference.cache
+C:\Users\havil\Documents\GitHub\Triangle-Fractal\Triangle_Fractal\Triangle_Fractal\obj\Debug\net6.0\Triangle_Fractal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\havil\Documents\GitHub\Triangle-Fractal\Triangle_Fractal\Triangle_Fractal\obj\Debug\net6.0\Triangle_Fractal.AssemblyInfoInputs.cache
+C:\Users\havil\Documents\GitHub\Triangle-Fractal\Triangle_Fractal\Triangle_Fractal\obj\Debug\net6.0\Triangle_Fractal.AssemblyInfo.cs
+C:\Users\havil\Documents\GitHub\Triangle-Fractal\Triangle_Fractal\Triangle_Fractal\obj\Debug\net6.0\Triangle_Fractal.csproj.CoreCompileInputs.cache
+C:\Users\havil\Documents\GitHub\Triangle-Fractal\Triangle_Fractal\Triangle_Fractal\obj\Debug\net6.0\Triangle_Fractal.dll
+C:\Users\havil\Documents\GitHub\Triangle-Fractal\Triangle_Fractal\Triangle_Fractal\obj\Debug\net6.0\refint\Triangle_Fractal.dll
+C:\Users\havil\Documents\GitHub\Triangle-Fractal\Triangle_Fractal\Triangle_Fractal\obj\Debug\net6.0\Triangle_Fractal.pdb
+C:\Users\havil\Documents\GitHub\Triangle-Fractal\Triangle_Fractal\Triangle_Fractal\obj\Debug\net6.0\Triangle_Fractal.genruntimeconfig.cache
+C:\Users\havil\Documents\GitHub\Triangle-Fractal\Triangle_Fractal\Triangle_Fractal\obj\Debug\net6.0\ref\Triangle_Fractal.dll
